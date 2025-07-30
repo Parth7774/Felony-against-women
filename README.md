@@ -119,13 +119,4 @@ FELONY-AGAINST-WOMEN/
 
   <div class="contribute">
     <h2>🤝 Contributions</h2>
-    <p>Want to contribute? Whether it's refining annotations, enhancing models, or adding new datasets—fork the repo and collaborate with us!</p>
-  </div>
 
-  <div class="contact">
-    <h2>📬 Contact</h2>
-    <p>Have questions? Open an issue or reach out via GitHub.</p>
-  </div>
-
-</body>
-</html>
