@@ -1,4 +1,4 @@
-,precision,recall,f1-score,support,movie_train,movie_test,,,,,,pre,re,f1,mac f1
+precision,recall,f1-score,support,movie_train,movie_test,,,,,,pre,re,f1,mac f1
 0,0.969632768,0.939124487,0.954134816,1462,"Pulp_Fiction,AmerricanHistoryX,TheWolfofWallStreet,Django_Unchained,South_Park",BlacKkKlansman,,,,,0,0.966854607,0.971802719,0.969220178,0.892315216
 1,0.611353712,0.765027322,0.67961165,183,"Pulp_Fiction,AmerricanHistoryX,TheWolfofWallStreet,Django_Unchained,South_Park",BlacKkKlansman,,,,,1,0.830002991,0.807657095,0.815410253,
 accuracy,0.919756839,0.919756839,0.919756839,0.919756839,"Pulp_Fiction,AmerricanHistoryX,TheWolfofWallStreet,Django_Unchained,South_Park",BlacKkKlansman,,,,,,,,,
