@@ -1,5 +1,5 @@
 
-We haveused both social media datasets(Fox news comments and Twitter) for transfer learning and also the movies Dataset made up of 6 hand picked movies.
+We have used both social media datasets(Fox news comments and Twitter) for transfer learning and also the movies Dataset made up of 6 hand picked movies.
 
 ### Twitter
 It consists of 24,802 [Tweets](https://github.com/t-davidson/hate-speech-and-offensive-language/). We identified 204 of them as duplicates and removed them to achieve accurate training results. The corpus was labelled by CrowdFlower workers into 3 classes: **Hate speech, Offensive and Neither.**
